@@ -122,6 +122,6 @@ streamlit run infer.py
   
 <img src="KoBART/imgs/rouge.png" alt="drawing" style="width:600px;"/>
 <img src="KoBART/imgs/rouge_1.png" alt="drawing" style="width:600px;"/>
-<img src="KoBART/imgs/rouge_2.png" alt="drawing" style="width:600px;"/>"
+<img src="KoBART/imgs/rouge_2.png" alt="drawing" style="width:600px;"/>
 
 # task10_KoBARTsummarization
