@@ -120,6 +120,8 @@ streamlit run infer.py
 ## Model Performance
 - TestData 기준으로 rouge score를 산출함(Rouge 결과화면)
   
-<img src="C:\Users\ADMIN\Desktop\전유태_프로젝트\T3Q-summarization\KoBART\imgs\rouge.png" alt="drawing" style="width:600px;"/>
-<img src="C:\Users\ADMIN\Desktop\전유태_프로젝트\T3Q-summarization\KoBART\imgs\rouge_1.png" alt="drawing" style="width:600px;"/>
-<img src="C:\Users\ADMIN\Desktop\전유태_프로젝트\T3Q-summarization\KoBART\imgs\rouge_2.png" alt="drawing" style="width:600px;"/>"# task10_KoBARTsummarization" 
+<img src="KoBART/imgs/rouge.png" alt="drawing" style="width:600px;"/>
+<img src="KoBART/imgs/rouge_1.png" alt="drawing" style="width:600px;"/>
+<img src="KoBART/imgs/rouge_2.png" alt="drawing" style="width:600px;"/>"
+
+# task10_KoBARTsummarization" 
